@@ -1,0 +1,23 @@
+body {
+  height: 100vh;
+  background: linear-gradient(to left, #000428, #004e92);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mail {
+  width: 400px;
+  background: rgba(13, 226, 216, 0.8);
+  border-radius: 25px;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  margin-bottom: 30px;
+}
+
+li {
+  color: white;
+}/*# sourceMappingURL=stylelogin.css.map */
